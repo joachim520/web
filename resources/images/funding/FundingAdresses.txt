@@ -1,0 +1,21 @@
+- Support and fund VVVVDrones -
+
+Info : https://sites.google.com/view/freelance-engineer/vvvvdrones
+
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Currency Name     CURRENCY     Wallet adress                                                                                            Additional tag(s)              Method | Remarks
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Bitcoin                BTC     1LoGrG5HSrLnhR7qfTckcd9LvRg1FgtVbS                                                                                                         BTC |
+| Bitcoin Cash           BCH     1LoGrG5HSrLnhR7qfTckcd9LvRg1FgtVbS                                                                                                         BCH |
+| Binance Coin           BNB     bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23                                                               BNB-memo: 105206841              BEP2 |
+| BitTorrent             BTT     TULXka2HMU1h9ktFGwJPgnupUkmypUSSwy                                                                                                       TRC20 |
+| Cardano                ADA     DdzFFzCqrht5ATQefNovHxv5tsYjXmGGR5gn6czfQAU2js5ZNDNE38tXozoPoPecfHwiTb3SNchwD6tXqg2gTWkp5mFVRSmnua3nkEcS                               Cardano |
+| ChainLink             LINK     0x0540537198eb4d9e241307105dbebbde97d0cdcd                                                                                               ERC20 |
+| Dogecoin              DOGE     DRJWfd5qi22CUim4jUZqeppJaqMs67NqUt                                                                                                    dogecoin |
+| Ethereum               ETH     0x0540537198eb4d9e241307105dbebbde97d0cdcd                                                                                               ERC20 |
+| Litecoin               LTC     LPWwQ6ZxDuCwN6necpEnWat76czdwv3zrk                                                                                                         LTC | a minimal of 0.001 LTC can be deposited
+| Polkadot               DOT     14rHZ7SjNrh9yyxq8j26H8uG4x76yF9NyobFHT46AHEKsGru                                                                                           DOT |
+| Tether                USDT     0x0540537198eb4d9e241307105dbebbde97d0cdcd                                                                                               ERC20 |
+| XRP                    XRP     rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh                                                                        XRP-tag: 100457658               XRP |
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Kindly contact for other currencies
